@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+.chatClass {
+  height: 20px;
+}
+
+.chat-list {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 300px;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
